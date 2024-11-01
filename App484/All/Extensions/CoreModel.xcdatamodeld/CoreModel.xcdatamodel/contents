@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ObjectModel" representedClassName="ObjectModel" syncable="YES" codeGenerationType="class">
+        <attribute name="obBath" optional="YES" attributeType="String"/>
+        <attribute name="obBed" optional="YES" attributeType="String"/>
+        <attribute name="obDescr" optional="YES" attributeType="String"/>
+        <attribute name="obImage" optional="YES" attributeType="String"/>
+        <attribute name="obLoc" optional="YES" attributeType="String"/>
+        <attribute name="obLT" optional="YES" attributeType="String"/>
+        <attribute name="obMonRent" optional="YES" attributeType="String"/>
+        <attribute name="obPType" optional="YES" attributeType="String"/>
+        <attribute name="obSize" optional="YES" attributeType="String"/>
+        <attribute name="obStatus" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TransModel" representedClassName="TransModel" syncable="YES" codeGenerationType="class">
+        <attribute name="trAmount" optional="YES" attributeType="String"/>
+        <attribute name="trDescr" optional="YES" attributeType="String"/>
+        <attribute name="trTitle" optional="YES" attributeType="String"/>
+        <attribute name="trType" optional="YES" attributeType="String"/>
+    </entity>
+</model>
