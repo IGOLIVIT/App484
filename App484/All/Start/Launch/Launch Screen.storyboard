@@ -23,13 +23,13 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Llogo" translatesAutoresizingMaskIntoConstraints="NO" id="aH1-aI-FZm">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2Llogo" translatesAutoresizingMaskIntoConstraints="NO" id="aH1-aI-FZm">
                                 <rect key="frame" x="-4" y="320" width="400" height="212"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
-                        <color key="backgroundColor" name="lbg"/>
+                        <color key="backgroundColor" name="nbg"/>
                         <constraints>
                             <constraint firstItem="Bcu-3y-fUS" firstAttribute="centerX" secondItem="obG-Y5-kRd" secondAttribute="centerX" id="5cz-MP-9tL"/>
                             <constraint firstItem="obG-Y5-kRd" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" constant="20" symbolic="YES" id="SfN-ll-jLj"/>
@@ -43,9 +43,9 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Llogo" width="1167" height="651"/>
-        <namedColor name="lbg">
-            <color red="0.20000001789999999" green="0.36470589040000001" blue="0.36078432199999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+        <image name="2Llogo" width="755" height="570"/>
+        <namedColor name="nbg">
+            <color red="0.01176470611" green="0.054901964960000001" blue="0.22745099660000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
     </resources>
 </document>

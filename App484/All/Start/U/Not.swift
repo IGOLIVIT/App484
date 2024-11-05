@@ -47,7 +47,7 @@ struct Not: View {
                                 .font(.system(size: 14, weight: .regular))
                                 .frame(maxWidth: .infinity)
                                 .frame(height: 50)
-                                .background(RoundedRectangle(cornerRadius: 20).fill(Color("prim")))
+                                .background(RoundedRectangle(cornerRadius: 20).fill(Color("prim3")))
                         })
                         .padding()
                     }
